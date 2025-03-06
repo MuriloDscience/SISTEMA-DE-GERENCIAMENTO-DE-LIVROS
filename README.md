@@ -1,8 +1,7 @@
 # Sistema-de-gerenciamento-de-livros
 criação de um sistema de gerenciamento de livros com ênfase na interface gráfica!
 
-## Descrição
-O **Sistema de Gerenciamento de Livros** cadastro e o gerenciamento de livros, usuários e empréstimos para uma biblioteca em phyton. 
+cadastro e o gerenciamento de livros, usuários e empréstimos para uma biblioteca em phyton. 
 
 ferramentas:
 - **SQLite3** para armazenamento dos dados.
