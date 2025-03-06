@@ -1,9 +1,8 @@
 # Sistema-de-gerenciamento-de-livros
 criação de um sistema de gerenciamento de livros com ênfase na interface gráfica!
 
-# Sistema-de-Gerenciamento-de-Livros
 ## Descrição
-O **Sistema de Gerenciamento de Livros** é uma aplicação desenvolvida em Python que possibilita o cadastro e o gerenciamento de livros, usuários e empréstimos para uma biblioteca. 
+O **Sistema de Gerenciamento de Livros** cadastro e o gerenciamento de livros, usuários e empréstimos para uma biblioteca em phyton. 
 
 ferramentas:
 - **SQLite3** para armazenamento dos dados.
